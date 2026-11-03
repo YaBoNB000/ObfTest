@@ -6,7 +6,7 @@
 --
 -- A watchdog aborts the run after CAPTURE_SECONDS so partial progress is kept.
 
-local DIR = _G.CAPTURE_DIR or "/work/capture"
+local DIR = _G.CAPTURE_DIR or "/tmp/capture"
 local LIMIT = tonumber(_G.CAPTURE_SECONDS) or 30
 local t0 = os.clock()
 local seq = 0

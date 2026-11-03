@@ -1,0 +1,250 @@
+SET CFrame.new = function: 0x0000561db0362a30
+SET NumberRange.new = function: 0x0000561db03629d0
+SET NumberSequence.new = function: 0x0000561db0362970
+SET NumberSequenceKeypoint.new = function: 0x0000561db0362910
+SET ColorSequence.new = function: 0x0000561db0362850
+SET ColorSequenceKeypoint.new = function: 0x0000561db03627f0
+SET Ray.new = function: 0x0000561db0362730
+SET Region3.new = function: 0x0000561db03626d0
+SET Region3int16.new = function: 0x0000561db0362670
+SET Vector3int16.new = function: 0x0000561db0362610
+SET Vector2int16.new = function: 0x0000561db03625b0
+SET BrickColor.new = function: 0x0000561db0362550
+SET TweenInfo.new = function: 0x0000561db03624f0
+SET PhysicalProperties.new = function: 0x0000561db0362490
+SET Random.new = function: 0x0000561db03623d0
+SET Faces.new = function: 0x0000561db0362370
+SET Axes.new = function: 0x0000561db0362310
+SET PathWaypoint.new = function: 0x0000561db03622b0
+SET DateTime.new = function: 0x0000561db0362250
+SET Font.new = function: 0x0000561db03621f0
+SET OverlapParams.new = function: 0x0000561db0362190
+SET RaycastParams.new = function: 0x0000561db0362130
+SET CatalogSearchParams.new = function: 0x0000561db03620d0
+SET DockWidgetPluginGuiInfo.new = function: 0x0000561db0362010
+SET FloatCurveKey.new = function: 0x0000561db0361f50
+SET RotationCurveKey.new = function: 0x0000561db0361ef0
+SET Content.new = function: 0x0000561db0361e90
+SET SharedTable.new = function: 0x0000561db0361e30
+SET Secret.new = function: 0x0000561db0361dd0
+SET SecurityCapabilities.new = function: 0x0000561db0361d70
+SET Path2DControlPoint.new = function: 0x0000561db0361cb0
+SET Tags.new = function: 0x0000561db0361bf0
+SET EnumItem.new = function: 0x0000561db0361b90
+SET Enumeration.new = function: 0x0000561db0361b30
+SET TextChatMessageProperties.new = function: 0x0000561db0361ad0
+=== stub environment ready ===
+[rec] installed dir=/tmp/rec2 max_writes=8000000
+[rec] writes=50000
+[rec] tostring on buffer #7 -> 2311 bytes
+[rec] writes=100000
+[rec] writes=150000
+[rec] writes=200000
+[rec] writes=250000
+[rec] writes=300000
+[rec] writes=350000
+[rec] writes=400000
+[rec] writes=450000
+[rec] writes=500000
+[rec] writes=550000
+[rec] writes=600000
+[rec] writes=650000
+[rec] writes=700000
+[rec] writes=750000
+[rec] writes=800000
+[rec] writes=850000
+[rec] writes=900000
+[rec] writes=950000
+[rec] writes=1000000
+[rec] writes=1050000
+[rec] writes=1100000
+[rec] writes=1150000
+[rec] writes=1200000
+[rec] writes=1250000
+[rec] writes=1300000
+[rec] writes=1350000
+[rec] writes=1400000
+[rec] writes=1450000
+[rec] writes=1500000
+[rec] writes=1550000
+[rec] writes=1600000
+[rec] writes=1650000
+[rec] writes=1700000
+[rec] writes=1750000
+[rec] writes=1800000
+[rec] writes=1850000
+[rec] writes=1900000
+[rec] writes=1950000
+[rec] writes=2000000
+[rec] writes=2050000
+[rec] writes=2100000
+[rec] writes=2150000
+[rec] writes=2200000
+[rec] writes=2250000
+[rec] writes=2300000
+[rec] writes=2350000
+[rec] writes=2400000
+[rec] writes=2450000
+[rec] writes=2500000
+[rec] writes=2550000
+[rec] writes=2600000
+[rec] writes=2650000
+[rec] writes=2700000
+[rec] writes=2750000
+[rec] writes=2800000
+[rec] writes=2850000
+[rec] writes=2900000
+[rec] writes=2950000
+[rec] writes=3000000
+[rec] writes=3050000
+[rec] writes=3100000
+[rec] writes=3150000
+[rec] writes=3200000
+[rec] writes=3250000
+[rec] writes=3300000
+[rec] writes=3350000
+[rec] writes=3400000
+[rec] writes=3450000
+[rec] writes=3500000
+[rec] writes=3550000
+[rec] writes=3600000
+[rec] writes=3650000
+[rec] writes=3700000
+[rec] writes=3750000
+[rec] writes=3800000
+[rec] writes=3850000
+[rec] writes=3900000
+[rec] writes=3950000
+[rec] writes=4000000
+[rec] writes=4050000
+[rec] writes=4100000
+[rec] writes=4150000
+[rec] writes=4200000
+[rec] writes=4250000
+[rec] writes=4300000
+[rec] writes=4350000
+[rec] writes=4400000
+[rec] writes=4450000
+[rec] writes=4500000
+[rec] writes=4550000
+[rec] writes=4600000
+[rec] writes=4650000
+[rec] writes=4700000
+[rec] writes=4750000
+[rec] writes=4800000
+[rec] writes=4850000
+[rec] writes=4900000
+[rec] writes=4950000
+[rec] writes=5000000
+[rec] writes=5050000
+[rec] writes=5100000
+[rec] writes=5150000
+[rec] writes=5200000
+[rec] writes=5250000
+[rec] writes=5300000
+[rec] writes=5350000
+[rec] writes=5400000
+[rec] writes=5450000
+[rec] writes=5500000
+[rec] writes=5550000
+[rec] writes=5600000
+[rec] writes=5650000
+[rec] writes=5700000
+[rec] writes=5750000
+[rec] writes=5800000
+[rec] writes=5850000
+[rec] writes=5900000
+[rec] writes=5950000
+[rec] writes=6000000
+[rec] writes=6050000
+[rec] writes=6100000
+[rec] writes=6150000
+[rec] writes=6200000
+[rec] writes=6250000
+[rec] writes=6300000
+[rec] writes=6350000
+[rec] writes=6400000
+[rec] writes=6450000
+[rec] writes=6500000
+[rec] writes=6550000
+[rec] writes=6600000
+[rec] writes=6650000
+[rec] writes=6700000
+[rec] writes=6750000
+[rec] writes=6800000
+[rec] writes=6850000
+[rec] writes=6900000
+[rec] writes=6950000
+[rec] writes=7000000
+[rec] writes=7050000
+[rec] writes=7100000
+[rec] writes=7150000
+[rec] writes=7200000
+[rec] writes=7250000
+[rec] writes=7300000
+[rec] writes=7350000
+[rec] writes=7400000
+[rec] writes=7450000
+[rec] writes=7500000
+[rec] writes=7550000
+[rec] writes=7600000
+[rec] writes=7650000
+[rec] writes=7700000
+[rec] writes=7750000
+[rec] writes=7800000
+[rec] writes=7850000
+[rec] writes=7900000
+[rec] writes=7950000
+[rec] writes=8000000
+[rec] write budget reached, dumping
+[rec] dumped buffer #28 (7788 bytes) reason=budget writes=1947
+[rec] dumped buffer #22 (10 bytes) reason=budget writes=4
+[rec] dumped buffer #47 (329 bytes) reason=budget writes=83
+[rec] dumped buffer #30 (3559 bytes) reason=budget writes=892
+[rec] dumped buffer #34 (9 bytes) reason=budget writes=3
+[rec] dumped buffer #2 (199880 bytes) reason=budget writes=39976
+[rec] dumped buffer #29 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #16 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #25 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #44 (1 bytes) reason=budget writes=1
+[rec] dumped buffer #1 (16 bytes) reason=budget writes=139
+[rec] dumped buffer #31 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #35 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #14 (8 bytes) reason=budget writes=2
+[rec] dumped buffer #7 (2311 bytes) reason=budget writes=580
+[rec] dumped buffer #41 (651 bytes) reason=budget writes=165
+[rec] dumped buffer #49 (2 bytes) reason=budget writes=2
+[rec] dumped buffer #32 (78 bytes) reason=budget writes=21
+[rec] dumped buffer #18 (6 bytes) reason=budget writes=3
+[rec] dumped buffer #50 (4644 bytes) reason=budget writes=1161
+[rec] dumped buffer #48 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #36 (1 bytes) reason=budget writes=1
+[rec] dumped buffer #15 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #45 (836 bytes) reason=budget writes=209
+[rec] dumped buffer #43 (754 bytes) reason=budget writes=190
+[rec] dumped buffer #5 (3 bytes) reason=budget writes=3
+[rec] dumped buffer #27 (13 bytes) reason=budget writes=4
+[rec] dumped buffer #42 (13 bytes) reason=budget writes=4
+[rec] dumped buffer #26 (537 bytes) reason=budget writes=135
+[rec] dumped buffer #3 (157168 bytes) reason=budget writes=7940796
+[rec] dumped buffer #39 (182 bytes) reason=budget writes=47
+[rec] dumped buffer #38 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #17 (6 bytes) reason=budget writes=3
+[rec] dumped buffer #23 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #37 (281 bytes) reason=budget writes=71
+[rec] dumped buffer #24 (234 bytes) reason=budget writes=60
+[rec] dumped buffer #11 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #8 (4 bytes) reason=budget writes=1
+[rec] dumped buffer #46 (11 bytes) reason=budget writes=5
+[rec] dumped buffer #33 (4 bytes) reason=budget writes=1
+[rec] dumped buffer #21 (10 bytes) reason=budget writes=4
+[rec] dumped buffer #13 (4 bytes) reason=budget writes=1
+[rec] dumped buffer #4 (53749 bytes) reason=budget writes=13438
+[rec] dumped buffer #12 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #19 (16 bytes) reason=budget writes=4
+[rec] dumped buffer #40 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #6 (1 bytes) reason=budget writes=1
+[rec] dumped buffer #10 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #20 (10 bytes) reason=budget writes=4
+[rec] dumped buffer #9 (6 bytes) reason=budget writes=3
+[run] ok=false err=REC_DONE

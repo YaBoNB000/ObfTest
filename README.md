@@ -21,7 +21,9 @@ was learned about it.
 | `work/n_formatted.luau` | the chunk re-indented into 4,448 readable lines (`tools/format_luau.py`) |
 | `work/notes/` | the analysis write-up — **start with `01-architecture.md`** |
 | `work/dumps/` | raw data extracted from the running VM (tables, buffers, TSV dumps) |
-| `work/capture/` | buffers the payload itself produced at run time (ASCII art, …) |
+| `work/capture/` | buffers the payload itself produced at run time (ASCII art, recovered strings) |
+| `work/strings/` | plaintext strings recovered from the payload + interpretation |
+| `work/decompiled/` | formatted bootstrap source and an annotated excerpt of the VM dispatch loop |
 | `tools/luau-host` | purpose-built Luau host binary (see below) |
 | `tools/host.cpp` | source of that host: `readfile`/`writefile`/`log`/`getupvalue`/`setupvalue`/`getinfo` + optional native codegen |
 | `tools/vm_tables.py` | the extracted cryptographic tables, re-implemented in Python |
@@ -43,6 +45,8 @@ was learned about it.
    surface, the ASCII logo, the animation loop.
 5. `work/notes/05-method.md` — how the host binary and shims were built, and how
    to reproduce every dump in `work/dumps/`.
+6. `work/notes/06-status-and-next-steps.md` — what is proven, what is missing,
+   and the effort left.
 
 ## Reproducing
 

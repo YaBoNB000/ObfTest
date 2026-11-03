@@ -5,7 +5,7 @@
 -- write pattern, and dump each buffer when it is first converted to a string or
 -- when the write budget is exhausted.
 
-local DIR = _G.REC_DIR or "/work/rec"
+local DIR = _G.REC_DIR or "/tmp/rec"
 local MAXW = tonumber(_G.REC_MAX_WRITES) or 400000
 
 local ids = {}

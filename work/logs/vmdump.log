@@ -1,0 +1,46 @@
+SET CFrame.new = function: 0x0000560b2255fe10
+SET NumberRange.new = function: 0x0000560b2255fdb0
+SET NumberSequence.new = function: 0x0000560b2255fd50
+SET NumberSequenceKeypoint.new = function: 0x0000560b2255fcf0
+SET ColorSequence.new = function: 0x0000560b2255fc30
+SET ColorSequenceKeypoint.new = function: 0x0000560b2255fbd0
+SET Ray.new = function: 0x0000560b2255fb10
+SET Region3.new = function: 0x0000560b2255fab0
+SET Region3int16.new = function: 0x0000560b2255fa50
+SET Vector3int16.new = function: 0x0000560b2255f9f0
+SET Vector2int16.new = function: 0x0000560b2255f990
+SET BrickColor.new = function: 0x0000560b2255f930
+SET TweenInfo.new = function: 0x0000560b2255f8d0
+SET PhysicalProperties.new = function: 0x0000560b2255f870
+SET Random.new = function: 0x0000560b2255f7b0
+SET Faces.new = function: 0x0000560b2255f750
+SET Axes.new = function: 0x0000560b2255f6f0
+SET PathWaypoint.new = function: 0x0000560b2255f690
+SET DateTime.new = function: 0x0000560b2255f630
+SET Font.new = function: 0x0000560b2255f5d0
+SET OverlapParams.new = function: 0x0000560b2255f570
+SET RaycastParams.new = function: 0x0000560b2255f510
+SET CatalogSearchParams.new = function: 0x0000560b2255f4b0
+SET DockWidgetPluginGuiInfo.new = function: 0x0000560b2255f3f0
+SET FloatCurveKey.new = function: 0x0000560b2255f330
+SET RotationCurveKey.new = function: 0x0000560b2255f2d0
+SET Content.new = function: 0x0000560b2255f270
+SET SharedTable.new = function: 0x0000560b2255f210
+SET Secret.new = function: 0x0000560b2255f1b0
+SET SecurityCapabilities.new = function: 0x0000560b2255f150
+SET Path2DControlPoint.new = function: 0x0000560b2255f090
+SET Tags.new = function: 0x0000560b2255efd0
+SET EnumItem.new = function: 0x0000560b2255ef70
+SET Enumeration.new = function: 0x0000560b2255ef10
+SET TextChatMessageProperties.new = function: 0x0000560b2255eeb0
+=== stub environment ready ===
+[dump] installed dir=/home/user/ObfTest/work/vmdump max_writes=300000
+[run] handler table loaded, entries=60
+[dump] writes=100000 buffers=0
+[dump] writes=200000 buffers=0
+[dump] writes=300000 buffers=0
+[dump] budget reached
+[run] ok=false err=DUMP_DONE
+[dump] wrote 2 buffers
+[run] walking entry closure upvalues
+[dump] wrote 3 buffers

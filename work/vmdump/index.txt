@@ -1,0 +1,2 @@
+/home/user/ObfTest/work/vmdump/buf001_199880.bin  199880 bytes  path=tab.F
+/home/user/ObfTest/work/vmdump/buf002_16.bin  16 bytes  path=tab.Y
