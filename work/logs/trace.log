@@ -1,0 +1,42 @@
+SET CFrame.new = function: 0x000055a7493f66c0
+SET NumberRange.new = function: 0x000055a7493f6660
+SET NumberSequence.new = function: 0x000055a7493f6600
+SET NumberSequenceKeypoint.new = function: 0x000055a7493f65a0
+SET ColorSequence.new = function: 0x000055a7493f64e0
+SET ColorSequenceKeypoint.new = function: 0x000055a7493f6480
+SET Ray.new = function: 0x000055a7493f63c0
+SET Region3.new = function: 0x000055a7493f6360
+SET Region3int16.new = function: 0x000055a7493f6300
+SET Vector3int16.new = function: 0x000055a7493f62a0
+SET Vector2int16.new = function: 0x000055a7493f6240
+SET BrickColor.new = function: 0x000055a7493f61e0
+SET TweenInfo.new = function: 0x000055a7493f6180
+SET PhysicalProperties.new = function: 0x000055a7493f6120
+SET Random.new = function: 0x000055a7493f6060
+SET Faces.new = function: 0x000055a7493f6000
+SET Axes.new = function: 0x000055a7493f5fa0
+SET PathWaypoint.new = function: 0x000055a7493f5f40
+SET DateTime.new = function: 0x000055a7493f5ee0
+SET Font.new = function: 0x000055a7493f5e80
+SET OverlapParams.new = function: 0x000055a7493f5e20
+SET RaycastParams.new = function: 0x000055a7493f5dc0
+SET CatalogSearchParams.new = function: 0x000055a7493f5d60
+SET DockWidgetPluginGuiInfo.new = function: 0x000055a7493f5ca0
+SET FloatCurveKey.new = function: 0x000055a7493f5be0
+SET RotationCurveKey.new = function: 0x000055a7493f5b80
+SET Content.new = function: 0x000055a7493f5b20
+SET SharedTable.new = function: 0x000055a7493f5ac0
+SET Secret.new = function: 0x000055a7493f5a60
+SET SecurityCapabilities.new = function: 0x000055a7493f5a00
+SET Path2DControlPoint.new = function: 0x000055a7493f5940
+SET Tags.new = function: 0x000055a7493f5880
+SET EnumItem.new = function: 0x000055a7493f5820
+SET Enumeration.new = function: 0x000055a7493f57c0
+SET TextChatMessageProperties.new = function: 0x000055a7493f5760
+=== stub environment ready ===
+[capture] installed, dir=/home/user/ObfTest/work/capture limit=30s
+[capture] writes=1000000 elapsed=12s
+[capture] writes=2000000 elapsed=24s
+[capture] writes=3000000 elapsed=36s
+[capture] watchdog stopping run
+[run] ok=false err=CAPTURE_TIMEOUT

@@ -1,0 +1,83 @@
+SET CFrame.new = function: 0x000055d4ab88b050
+SET NumberRange.new = function: 0x000055d4ab88aff0
+SET NumberSequence.new = function: 0x000055d4ab88af90
+SET NumberSequenceKeypoint.new = function: 0x000055d4ab88af30
+SET ColorSequence.new = function: 0x000055d4ab88ae70
+SET ColorSequenceKeypoint.new = function: 0x000055d4ab88ae10
+SET Ray.new = function: 0x000055d4ab88ad50
+SET Region3.new = function: 0x000055d4ab88acf0
+SET Region3int16.new = function: 0x000055d4ab88ac90
+SET Vector3int16.new = function: 0x000055d4ab88ac30
+SET Vector2int16.new = function: 0x000055d4ab88abd0
+SET BrickColor.new = function: 0x000055d4ab88ab70
+SET TweenInfo.new = function: 0x000055d4ab88ab10
+SET PhysicalProperties.new = function: 0x000055d4ab88aab0
+SET Random.new = function: 0x000055d4ab88a9f0
+SET Faces.new = function: 0x000055d4ab88a990
+SET Axes.new = function: 0x000055d4ab88a930
+SET PathWaypoint.new = function: 0x000055d4ab88a8d0
+SET DateTime.new = function: 0x000055d4ab88a870
+SET Font.new = function: 0x000055d4ab88a810
+SET OverlapParams.new = function: 0x000055d4ab88a7b0
+SET RaycastParams.new = function: 0x000055d4ab88a750
+SET CatalogSearchParams.new = function: 0x000055d4ab88a6f0
+SET DockWidgetPluginGuiInfo.new = function: 0x000055d4ab88a630
+SET FloatCurveKey.new = function: 0x000055d4ab88a570
+SET RotationCurveKey.new = function: 0x000055d4ab88a510
+SET Content.new = function: 0x000055d4ab88a4b0
+SET SharedTable.new = function: 0x000055d4ab88a450
+SET Secret.new = function: 0x000055d4ab88a3f0
+SET SecurityCapabilities.new = function: 0x000055d4ab88a390
+SET Path2DControlPoint.new = function: 0x000055d4ab88a2d0
+SET Tags.new = function: 0x000055d4ab88a210
+SET EnumItem.new = function: 0x000055d4ab88a1b0
+SET Enumeration.new = function: 0x000055d4ab88a150
+SET TextChatMessageProperties.new = function: 0x000055d4ab88a0f0
+=== stub environment ready ===
+[run] loading chunk
+[run] chunk compiled, executing
+[progress] buffer.writeu8=500000 elapsed=6.0s
+[progress] buffer.writeu8=1000000 elapsed=12.0s
+[progress] buffer.writeu8=1500000 elapsed=18.0s
+[progress] buffer.writeu8=2000000 elapsed=23.9s
+[progress] buffer.writeu8=2500000 elapsed=30.1s
+[progress] buffer.writeu8=3000000 elapsed=36.2s
+[progress] buffer.writeu8=3500000 elapsed=42.4s
+[progress] buffer.writeu8=4000000 elapsed=48.4s
+[progress] buffer.writeu8=4500000 elapsed=54.3s
+[progress] buffer.writeu8=5000000 elapsed=60.2s
+[progress] buffer.writeu8=5500000 elapsed=66.5s
+[progress] buffer.writeu8=6000000 elapsed=72.3s
+[progress] buffer.writeu8=6500000 elapsed=78.4s
+[progress] buffer.writeu8=7000000 elapsed=84.5s
+[progress] buffer.writeu8=7500000 elapsed=90.5s
+[progress] buffer.writeu8=8000000 elapsed=96.6s
+[progress] buffer.writeu8=8500000 elapsed=102.6s
+[progress] buffer.writeu8=9000000 elapsed=108.5s
+[progress] buffer.writeu8=9500000 elapsed=114.6s
+[progress] buffer.writeu8=10000000 elapsed=120.8s
+[progress] buffer.writeu8=10500000 elapsed=126.8s
+[progress] buffer.writeu8=11000000 elapsed=132.8s
+[progress] buffer.writeu8=11500000 elapsed=139.0s
+[progress] buffer.writeu8=12000000 elapsed=145.0s
+[progress] buffer.writeu8=12500000 elapsed=150.9s
+[progress] buffer.writeu8=13000000 elapsed=156.8s
+[progress] buffer.writeu8=13500000 elapsed=162.8s
+[progress] buffer.writeu8=14000000 elapsed=168.7s
+[progress] buffer.writeu8=14500000 elapsed=174.6s
+[progress] buffer.writeu8=15000000 elapsed=180.5s
+[progress] buffer.writeu8=15500000 elapsed=186.5s
+[progress] buffer.writeu8=16000000 elapsed=192.4s
+[progress] buffer.writeu8=16500000 elapsed=198.3s
+[progress] buffer.writeu8=17000000 elapsed=204.2s
+[progress] buffer.writeu8=17500000 elapsed=210.1s
+[progress] buffer.writeu8=18000000 elapsed=216.1s
+[progress] buffer.writeu8=18500000 elapsed=222.0s
+[progress] buffer.writeu8=19000000 elapsed=227.8s
+[progress] buffer.writeu8=19500000 elapsed=233.7s
+[progress] buffer.writeu8=20000000 elapsed=239.7s
+[progress] buffer.writeu8=20500000 elapsed=245.7s
+[progress] buffer.writeu8=21000000 elapsed=251.6s
+[progress] buffer.writeu8=21500000 elapsed=257.7s
+[progress] buffer.writeu8=22000000 elapsed=263.8s
+[progress] buffer.writeu8=22500000 elapsed=270.4s

@@ -1,0 +1,92 @@
+SET CFrame.new = function: 0x0000559a059711a0
+SET NumberRange.new = function: 0x0000559a05971140
+SET NumberSequence.new = function: 0x0000559a059710e0
+SET NumberSequenceKeypoint.new = function: 0x0000559a05971080
+SET ColorSequence.new = function: 0x0000559a05970fc0
+SET ColorSequenceKeypoint.new = function: 0x0000559a05970f60
+SET Ray.new = function: 0x0000559a05970ea0
+SET Region3.new = function: 0x0000559a05970e40
+SET Region3int16.new = function: 0x0000559a05970de0
+SET Vector3int16.new = function: 0x0000559a05970d80
+SET Vector2int16.new = function: 0x0000559a05970d20
+SET BrickColor.new = function: 0x0000559a05970cc0
+SET TweenInfo.new = function: 0x0000559a05970c60
+SET PhysicalProperties.new = function: 0x0000559a05970c00
+SET Random.new = function: 0x0000559a05970b40
+SET Faces.new = function: 0x0000559a05970ae0
+SET Axes.new = function: 0x0000559a05970a80
+SET PathWaypoint.new = function: 0x0000559a05970a20
+SET DateTime.new = function: 0x0000559a059709c0
+SET Font.new = function: 0x0000559a05970960
+SET OverlapParams.new = function: 0x0000559a05970900
+SET RaycastParams.new = function: 0x0000559a059708a0
+SET CatalogSearchParams.new = function: 0x0000559a05970840
+SET DockWidgetPluginGuiInfo.new = function: 0x0000559a05970780
+SET FloatCurveKey.new = function: 0x0000559a059706c0
+SET RotationCurveKey.new = function: 0x0000559a05970660
+SET Content.new = function: 0x0000559a05970600
+SET SharedTable.new = function: 0x0000559a059705a0
+SET Secret.new = function: 0x0000559a05970540
+SET SecurityCapabilities.new = function: 0x0000559a059704e0
+SET Path2DControlPoint.new = function: 0x0000559a05970420
+SET Tags.new = function: 0x0000559a05970360
+SET EnumItem.new = function: 0x0000559a05970300
+SET Enumeration.new = function: 0x0000559a059702a0
+SET TextChatMessageProperties.new = function: 0x0000559a05970240
+=== stub environment ready ===
+[rec] installed dir=/home/user/ObfTest/work/rec max_writes=100000
+[rec] writes=50000
+[rec] tostring on buffer #7 -> 2311 bytes
+[rec] writes=100000
+[rec] write budget reached, dumping
+[rec] dumped buffer #13 (4 bytes) reason=budget writes=1
+[rec] dumped buffer #29 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #34 (9 bytes) reason=budget writes=3
+[rec] dumped buffer #32 (78 bytes) reason=budget writes=21
+[rec] dumped buffer #40 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #10 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #41 (651 bytes) reason=budget writes=165
+[rec] dumped buffer #19 (16 bytes) reason=budget writes=4
+[rec] dumped buffer #28 (7788 bytes) reason=budget writes=1947
+[rec] dumped buffer #9 (6 bytes) reason=budget writes=3
+[rec] dumped buffer #4 (53749 bytes) reason=budget writes=13438
+[rec] dumped buffer #42 (13 bytes) reason=budget writes=4
+[rec] dumped buffer #27 (13 bytes) reason=budget writes=4
+[rec] dumped buffer #14 (8 bytes) reason=budget writes=2
+[rec] dumped buffer #6 (1 bytes) reason=budget writes=1
+[rec] dumped buffer #23 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #49 (2 bytes) reason=budget writes=2
+[rec] dumped buffer #38 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #21 (10 bytes) reason=budget writes=4
+[rec] dumped buffer #16 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #1 (16 bytes) reason=budget writes=139
+[rec] dumped buffer #37 (281 bytes) reason=budget writes=71
+[rec] dumped buffer #5 (3 bytes) reason=budget writes=3
+[rec] dumped buffer #35 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #24 (234 bytes) reason=budget writes=60
+[rec] dumped buffer #48 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #12 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #47 (329 bytes) reason=budget writes=83
+[rec] dumped buffer #22 (10 bytes) reason=budget writes=4
+[rec] dumped buffer #44 (1 bytes) reason=budget writes=1
+[rec] dumped buffer #15 (7 bytes) reason=budget writes=4
+[rec] dumped buffer #45 (836 bytes) reason=budget writes=209
+[rec] dumped buffer #46 (11 bytes) reason=budget writes=5
+[rec] dumped buffer #43 (754 bytes) reason=budget writes=190
+[rec] dumped buffer #39 (182 bytes) reason=budget writes=47
+[rec] dumped buffer #3 (157168 bytes) reason=budget writes=40796
+[rec] dumped buffer #50 (4644 bytes) reason=budget writes=1161
+[rec] dumped buffer #2 (199880 bytes) reason=budget writes=39976
+[rec] dumped buffer #36 (1 bytes) reason=budget writes=1
+[rec] dumped buffer #8 (4 bytes) reason=budget writes=1
+[rec] dumped buffer #11 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #17 (6 bytes) reason=budget writes=3
+[rec] dumped buffer #26 (537 bytes) reason=budget writes=135
+[rec] dumped buffer #31 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #33 (4 bytes) reason=budget writes=1
+[rec] dumped buffer #20 (10 bytes) reason=budget writes=4
+[rec] dumped buffer #25 (5 bytes) reason=budget writes=2
+[rec] dumped buffer #18 (6 bytes) reason=budget writes=3
+[rec] dumped buffer #30 (3559 bytes) reason=budget writes=892
+[rec] dumped buffer #7 (2311 bytes) reason=budget writes=580
+[run] ok=false err=REC_DONE

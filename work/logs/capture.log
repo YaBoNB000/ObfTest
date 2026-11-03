@@ -1,0 +1,46 @@
+SET CFrame.new = function: 0x0000562f74c94790
+SET NumberRange.new = function: 0x0000562f74c94730
+SET NumberSequence.new = function: 0x0000562f74c946d0
+SET NumberSequenceKeypoint.new = function: 0x0000562f74c94670
+SET ColorSequence.new = function: 0x0000562f74c945b0
+SET ColorSequenceKeypoint.new = function: 0x0000562f74c94550
+SET Ray.new = function: 0x0000562f74c94490
+SET Region3.new = function: 0x0000562f74c94430
+SET Region3int16.new = function: 0x0000562f74c943d0
+SET Vector3int16.new = function: 0x0000562f74c94370
+SET Vector2int16.new = function: 0x0000562f74c94310
+SET BrickColor.new = function: 0x0000562f74c942b0
+SET TweenInfo.new = function: 0x0000562f74c94250
+SET PhysicalProperties.new = function: 0x0000562f74c941f0
+SET Random.new = function: 0x0000562f74c94130
+SET Faces.new = function: 0x0000562f74c940d0
+SET Axes.new = function: 0x0000562f74c94070
+SET PathWaypoint.new = function: 0x0000562f74c94010
+SET DateTime.new = function: 0x0000562f74c93fb0
+SET Font.new = function: 0x0000562f74c93f50
+SET OverlapParams.new = function: 0x0000562f74c93ef0
+SET RaycastParams.new = function: 0x0000562f74c93e90
+SET CatalogSearchParams.new = function: 0x0000562f74c93e30
+SET DockWidgetPluginGuiInfo.new = function: 0x0000562f74c93d70
+SET FloatCurveKey.new = function: 0x0000562f74c93cb0
+SET RotationCurveKey.new = function: 0x0000562f74c93c50
+SET Content.new = function: 0x0000562f74c93bf0
+SET SharedTable.new = function: 0x0000562f74c93b90
+SET Secret.new = function: 0x0000562f74c93b30
+SET SecurityCapabilities.new = function: 0x0000562f74c93ad0
+SET Path2DControlPoint.new = function: 0x0000562f74c93a10
+SET Tags.new = function: 0x0000562f74c93950
+SET EnumItem.new = function: 0x0000562f74c938f0
+SET Enumeration.new = function: 0x0000562f74c93890
+SET TextChatMessageProperties.new = function: 0x0000562f74c93830
+=== stub environment ready ===
+[capture] installed, dir=/home/user/ObfTest/work/capture limit=900s
+[capture] writes=1000000 elapsed=12s
+[capture] writes=2000000 elapsed=24s
+[capture] writes=3000000 elapsed=36s
+[capture] writes=4000000 elapsed=48s
+[capture] writes=5000000 elapsed=59s
+[capture] writes=6000000 elapsed=71s
+[capture] writes=7000000 elapsed=83s
+[capture] writes=8000000 elapsed=95s
+[capture] writes=9000000 elapsed=107s
