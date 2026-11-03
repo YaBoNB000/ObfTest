@@ -1,0 +1,10 @@
+# build products / scratch
+tools/luau-host
+tools/__pycache__/
+__pycache__/
+*.pyc
+
+# run artefacts (regenerate with the harnesses in tools/)
+work/logs/
+work/rec/
+work/vmdump/
