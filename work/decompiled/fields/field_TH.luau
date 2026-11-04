@@ -1,0 +1,2 @@
+-- field TH  (473 chars, kind=function)
+TH=function(R,F,Y,d,L,O,k,v,y,K)if k<=14 then if k<=13 then local c,s=y-128,16384*(O-128);local r=c+Y*128+s;return 22,K+3,F,d,r,O;else local Y=R[53](v,F+3);local c,s,r,G=(d-128)*2097152,(y-128)*128,(O-128)*16384,Y%128;local N=(Y-Y%128)*2097152+s+G+(r+c);return 11,K,4+F,N,y,O;end;elseif k<=15 then local Y=R[53](L,K+2);return not(128<=Y)and 2 or 18,K,F,d,y,Y;elseif k<=16 then return 24,1+K,F,d,y,O;else local Y=R[53](v,2+F);return not(Y>=128)and 28 or 14,K,F,d,y,Y;end;end

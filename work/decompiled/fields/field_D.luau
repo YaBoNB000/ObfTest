@@ -1,0 +1,2 @@
+-- field D  (377 chars, kind=function)
+D=function(R,F,Y,d,L,O,k,v,y,K)if Y<=82 then if Y<=81 then return 31,F,L+1,v,O,y,K;else local c;local s=F[6];if not(2~=v)then return 162,F,s,v,O,y,K;else return 137,c,L,v,O,s,K;end;end;elseif Y<=83 then return not not(k>=128)and 135 or 22,F,L,v,O,y,K;elseif Y<=84 then local Y=R[53](d,O);return not(Y>=128)and 28 or 98,F,L,v,O,y,Y;else return 82,F,L,O+128*(v-128),2,y,K;end;end

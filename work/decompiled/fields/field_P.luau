@@ -1,0 +1,2 @@
+-- field P  (458 chars, kind=function)
+P=function(R,F,Y,d,L,O,k,v,y,K)if y<=21 then if y<=20 then local c=R[53](F,Y+3);local s,r,G,N,B=2097152*(L-128),(k-128)*128,(K-128)*16384,c%128,c%128;local M=2097152*(c-B);B=s+G+(r+M+N);return 157,O,F,Y+4,B,v,d;else return 45,O[1],F,Y,L,v,d;end;elseif y<=22 then return 152,O,K+128*(k-128),Y+2,L,v,d;elseif y<=23 then local k=R[53](F,L+2);return k<128 and 15 or 40,O,F,Y,L,k,d;else local d=R[53](F,L+1);return not not(128<=d)and 48 or 134,O,F,Y,L,v,d;end;end

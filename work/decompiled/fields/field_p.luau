@@ -1,0 +1,2 @@
+-- field p  (461 chars, kind=function)
+p=function(R,F,Y,d,L,O,k,v,y,K,c)if L<=157 then local s=R[53](d,F);if s<128 then return 12,s,c,v,K,y;else return 9,d,c,s,K,y;end;elseif L<=158 then local F,L,s=O[4],O[3],O[5];local r,G=F+L,L<=0;L,F=r>=s,r<=s;s=G and L or not G and F;O[4]=r;if s then return 75,d,c,v,K,r;else return 62,d,c,v,K,y;end;else local F=R[53](d,3+c);local R,L,O,s,r=2097152*(K-128),(k-128)*128,16384*(Y-128),F%128,F%128;local Y=2097152*(F-r);F=L+s+(R+Y+O);return 160,d,c+4,v,F,y;end;end

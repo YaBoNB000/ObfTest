@@ -1,0 +1,2 @@
+-- field JH  (406 chars, kind=function)
+JH=function(R,F,Y,d,L,O,k,v,y,K,c)if L<=7 then local s=O%256;local r=(O-s)/256;local G=r%256;r=(r-G)/256;local N=r%256;return 14,G,K,N,(r-N)/256,(s-33)*7225,33;elseif L<=8 then local L=R[53](d,2+c);return not(L<128)and 1 or 17,O,K,F,v,L,y;else local R,d,L=Y[1],Y[2],Y[5];local c,s=R+d,d<=0;d,R=c>=L,c<=L;L=s and d or not s and R;Y[1]=c;if L then return 26,O,c,F,v,k,y;else return 37,O,K,F,v,k,y;end;end;end

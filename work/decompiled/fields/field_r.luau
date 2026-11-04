@@ -1,0 +1,2 @@
+-- field r  (445 chars, kind=function)
+r=function(R,F,Y,d,L,O,k,v,y,K,c)if O<=92 then if O<=91 then local s=R[53](y,K);return s<128 and 106 or 44,K,v,L,d,s;else local s=128*(d-128)+k;return 7,2+K,v,L,s,k;end;elseif O<=93 then local s=R[53](y,K+3);local r,G,N,B=(L-128)*2097152,128*(F-128),16384*(Y-128),s%128;local F=N+(r+(s-s%128)*2097152+(G+B));return 89,4+K,v,F,d,k;elseif O<=94 then return 19,1+K,v,L,d,k;else local F=R[53](y,2+c);return not(128<=F)and 100 or 79,K,F,L,d,k;end;end

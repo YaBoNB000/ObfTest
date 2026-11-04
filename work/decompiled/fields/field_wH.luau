@@ -1,0 +1,2 @@
+-- field wH  (437 chars, kind=function)
+wH=function(R,F,Y,d,L,O,k,v,y,K,c,s,r,G)if d<=10 then if d<=9 then local N=L+128*(G-128);return 11,v,K,y,O,2+Y,N,L,r,F,c,k;else local N=(L-128)*128+r;return 22,v,K,2+y,O,Y,G,N,r,F,c,k;end;elseif d<=11 then local d,N,B,M=(K+y)%256,R[64](G),y*16843009,G-G%4;local E,J=M-1,4+0;return 35,{v,0-J,E+0,nil,J},d,y,O,Y,G,177,15,N,B,M;else local Y,d=s[5][K],s[4];local O=1+Y;Y=R[53](d,O);return not(Y>=128)and 4 or 23,v,K,y,d,O,Y,L,r,F,c,k;end;end

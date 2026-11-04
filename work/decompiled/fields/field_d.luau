@@ -1,0 +1,2 @@
+-- field d  (381 chars, kind=function)
+d=function(R,F,Y,d,L,O,k,v,y)if y<=26 then if y<=25 then local K=F-27279;local c,s,r=R[98](K),R[98](K),1+0;local G=1-r;return 11,{L,K+0,G,nil,r},v,k,c,s,Y;else return 17,L,v,1+k,F,d,Y;end;elseif y<=27 then local K=R[53](O,k);return not(K>=128)and 4 or 114,L,K,k,F,d,Y;elseif y<=28 then return 160,L,v,1+k,F,d,Y;else local Y=R[53](O,k+2);return 128>Y and 5 or 76,L,v,k,F,d,Y;end;end

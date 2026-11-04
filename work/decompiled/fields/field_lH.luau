@@ -1,0 +1,2 @@
+-- field lH  (381 chars, kind=function)
+lH=function(R,F,Y,d,L,O,k,v,y)if v<=18 then local K=1+0;local c=0-K;return 12,{nil,k,K,255+0,c},177,15,F,L,Y;elseif v<=19 then local v=R[53](y,3+F);local K,c,s,r,G=(L-128)*2097152,128*(Y-128),(d-128)*16384,v%128,v%128;local d=2097152*(v-G);G=r+(K+(c+s))+d;return 24,k,y,O,4+F,G,Y;else local d=Y-64312;local Y=R[98](d);O[5]=Y;local R=1+0;return 9,{1-R,R,k,nil,d+0},y,O,F,L,Y;end;end

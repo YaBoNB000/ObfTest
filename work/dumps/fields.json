@@ -1,0 +1,86 @@
+[
+ {
+  "key": "[43]",
+  "kind": "expr",
+  "start": 21,
+  "end": 36,
+  "chars": 15
+ },
+ {
+  "key": "y",
+  "kind": "expr",
+  "start": 133,
+  "end": 173,
+  "chars": 40
+ },
+ {
+  "key": "R",
+  "kind": "expr",
+  "start": 294,
+  "end": 324,
+  "chars": 30
+ },
+ {
+  "key": "k",
+  "kind": "expr",
+  "start": 674,
+  "end": 719,
+  "chars": 45
+ },
+ {
+  "key": "[115]",
+  "kind": "expr",
+  "start": 1323,
+  "end": 1344,
+  "chars": 21
+ },
+ {
+  "key": "F",
+  "kind": "expr",
+  "start": 2500,
+  "end": 2550,
+  "chars": 50
+ },
+ {
+  "key": "K",
+  "kind": "expr",
+  "start": 4431,
+  "end": 4434,
+  "chars": 3
+ },
+ {
+  "key": "L",
+  "kind": "expr",
+  "start": 7540,
+  "end": 7546,
+  "chars": 6
+ },
+ {
+  "key": "o",
+  "kind": "expr",
+  "start": 12315,
+  "end": 12335,
+  "chars": 20
+ },
+ {
+  "key": "[6]",
+  "kind": "expr",
+  "start": 29103,
+  "end": 29110,
+  "chars": 7
+ },
+ {
+  "key": "h",
+  "kind": "expr",
+  "start": 47633,
+  "end": 47639,
+  "chars": 6
+ },
+ {
+  "key": "j",
+  "kind": "expr",
+  "start": 77163,
+  "end": 77188,
+  "chars": 25
+ }
+]

@@ -1,0 +1,2 @@
+-- field f  (429 chars, kind=function)
+f=function(R,F,Y,d,L,O,k,v,y,K,c,s)if O<=123 then if O<=122 then local r=Y+128*(L-128);return 117,v,2+d,k,s,r,K,y;else local Y,r=R[70](c,d),d+4;local G,N,B,M=R[70](c,r),4+r,K-K%1,1+0;r=B-M;return 121,{nil,Y+0,v,r,M},Y,k,s,L,G,N;end;elseif O<=124 then local Y=128*(s-128)+F;return 132,v,2+d,k,Y,L,K,y;elseif O<=125 then return 35,v[4],d,k,s,L,K,y;else local F=R[53](c,d+1);return not not(128<=F)and 37 or 113,v,d,F,s,L,K,y;end;end

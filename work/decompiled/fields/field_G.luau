@@ -1,0 +1,2 @@
+-- field G  (368 chars, kind=function)
+G=function(R,F,Y,d,L,O,k,v,y,K)if v<=102 then if v<=101 then local c,s=d-128,16384*(F-128);local r=128*K+c+s;return 14,Y,3+O,L,r,F;else local K=R[53](y,1+O);return not(128<=K)and 55 or 143,Y,O,L,d,K;end;elseif v<=103 then return 147,Y[3],k,L,d,O;elseif v<=104 then local k=R[53](y,O+1);return not not(128<=k)and 145 or 61,Y,O,k,d,F;else return 148,Y[2],O,L,d,F;end;end

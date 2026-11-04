@@ -1,0 +1,2 @@
+-- field M  (379 chars, kind=function)
+M=function(R,F,Y,d,L,O,k,v,y)if y<=119 then return 107,1+F,L,Y;elseif y<=120 then local y=R[53](d,F+3);local R,d,K,c=2097152*(L-128),(k-128)*128,(v-128)*16384,y%128;local k=(y-y%128)*2097152+(c+(R+K))+d;return 151,4+F,k,Y;else local R,d,k=O[4],O[5],O[2];local v,y=R+d,d<=0;R,d=v>=k,v<=k;k=y and R or not y and d;O[4]=v;if k then return 136,F,L,v;else return 103,F,L,Y;end;end;end

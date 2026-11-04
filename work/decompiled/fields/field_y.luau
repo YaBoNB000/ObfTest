@@ -1,0 +1,2 @@
+-- field y  (482 chars, kind=function)
+y=function(R,F,Y,d,L,O,k,v,y,K,c,s,r)if v<=71 then if v<=70 then return 14,O,s,r,d+1,L;else y[c]=k-k%1;return 147,O,s,r,d,L;end;elseif v<=72 then return 53,O[1],s,r,d,L;elseif v<=73 then local k=R[53](s,3+d);local v,y,c,G,N=2097152*(L-128),(Y-128)*128,16384*(K-128),k%128,k%128;local B=2097152*(k-N);k=y+G+(v+(B+c));return 17,O,s,r,d+4,k;else local k=R[53](s,r+3);local R,v,y,c=(Y-128)*2097152,128*(K-128),16384*(F-128),k%128;return 152,O,v+(k-k%128)*2097152+y+(c+R),4+r,d,L;end;end

@@ -1,0 +1,2 @@
+-- field J  (461 chars, kind=function)
+J=function(R,F,Y,d,L,O,k,v,y,K,c,s,r)if L<=36 then if L<=35 then local G=R[53](Y,d);return not not(128<=G)and 60 or 32,d,F,v,c,G,O;else local G=F-128;local N=16384*(s-128)+(128*y+G);return 17,3+d,N,v,c,r,O;end;elseif L<=37 then local y=R[53](Y,d+2);return not not(128<=y)and 58 or 144,d,F,y,c,r,O;elseif L<=38 then local L,y=O-128,(K-128)*16384;local K=L+k*128+y;return 153,3+d,F,v,c,r,K;else local L=R[53](Y,d);return not(L<128)and 104 or 2,d,F,v,L,r,O;end;end

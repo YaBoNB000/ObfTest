@@ -1,0 +1,2 @@
+-- field j  (412 chars, kind=function)
+j=function(R,F,Y,d,L,O,k,v,y)if Y<=128 then if Y<=127 then local K,c=y-128,16384*(F-128);return 82,K+L*128+c,3,L,v;else return 82,y,1,L,v;end;elseif Y<=129 then return 54,y,F+1,L,v;elseif Y<=130 then local Y=R[53](d,3+F);local K,c,s,r=(v-128)*2097152,(k-128)*128,16384*(O-128),Y%128;local O=K+(c+((Y-Y%128)*2097152+r+s));return 14,y,F+4,L,O;else local Y=R[53](d,1+F);return not(Y<128)and 46 or 87,y,F,Y,v;end;end

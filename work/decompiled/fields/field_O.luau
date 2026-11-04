@@ -1,0 +1,2 @@
+-- field O  (500 chars, kind=function)
+O=function(R,F,Y,d,L,O,k,v,y,K,c)if k then if O<=147 then return 155,F,L,v,c,d,1+y;else local k=R[53](K,L);return not(k<128)and 24 or 109,F,L,k,c,d,y;end;elseif O<=149 then local k=R[53](K,2+L);return not(k<128)and 49 or 142,F,L,v,c,d,k;elseif O<=150 then local O=R[53](K,3+L);local k,K,s,r=(d-128)*2097152,128*(y-128),16384*(Y-128),O%128;local Y=(O-O%128)*2097152+r+(k+s+K);return 153,F,L+4,v,c,Y,y;else local Y=v-27279;local O,k,v=R[98](Y),R[98](Y),1+0;return 99,{1-v,Y+0,nil,F,v},L,O,k,d,y;end;end

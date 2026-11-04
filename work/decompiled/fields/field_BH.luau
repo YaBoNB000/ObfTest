@@ -1,0 +1,2 @@
+-- field BH  (446 chars, kind=function)
+BH=function(R,F,Y,d,L,O,k,v,y)if d<=23 then if d<=22 then local K,c=R[53](L,Y),1+Y;R[63](y,O+F,K,v);return 29,k,F,v;else local K=R[53](y,O+1);return not(128<=K)and 9 or 17,k,F,K;end;elseif d<=24 then local O=R[53](L,Y);return not(O>=128)and 30 or 0,k,F,O;elseif d<=25 then return 20,k[1],F,v;else local R,Y,d=k[4],k[5],k[2];local L,O=R+Y,Y<=0;Y,R=L>=d,L<=d;d=O and Y or not O and R;k[4]=L;if d then return 8,k,L,v;else return 21,k,F,v;end;end;end

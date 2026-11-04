@@ -1,0 +1,2 @@
+-- field A  (530 chars, kind=function)
+A=function(R,F,Y,d,L,O,k,v,y,K,c,s,r,G,N,B,M)if N<=133 then if N<=132 then local E=O-27279;local J,C,m=R[98](E),R[98](E),1+0;return 158,{nil,M,m,1-m,E+0},y,c,v,s,L,J,C;else local E,J=R[53](y,v+3),(c-128)*2097152;return 19,M,y,(K-128)*128+(16384*(B-128)+(E%128+(E-E%128)*2097152))+J,v+4,s,L,O,k;end;elseif N<=134 then local K=r+128*(L-128);return 151,M,y,c,2+v,s,K,O,k;elseif N<=135 then local K=R[53](y,G+2);if K<128 then return 116,M,K,c,v,s,L,O,k;else return 74,M,y,c,v,K,L,O,k;end;else d[F]=Y;return 121,M,y,c,v,s,L,O,k;end;end

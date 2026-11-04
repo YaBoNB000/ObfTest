@@ -1,0 +1,2 @@
+-- field e  (485 chars, kind=function)
+e=function(R,F,Y,d,L,O,k,v,y,K,c,s,r)if s<=41 then if s<=40 then local G=R[53](F,r+3);local N,B,M,E=2097152*(K-128),128*(v-128),(k-128)*16384,G%128;local k=(G-G%128)*2097152+(M+B+(E+N));return 107,O,c,r+4,y,k,L;else local k=d+128*(y-128);return 25,O,c,2+r,k,K,L;end;elseif s<=42 then local d=128*(r-128)+Y;return 157,2+O,c,d,y,K,L;elseif s<=43 then local Y=R[53](F,0);return not(128>Y)and 6 or 128,nil,Y,r,y,K,L;else local Y=R[53](F,r+1);return 128>Y and 122 or 149,O,c,r,y,K,Y;end;end

@@ -1,0 +1,2 @@
+-- field eH  (470 chars, kind=function)
+eH=function(R,F,Y,d,L,O,k,v,y,K,c,s,r)if L<=11 then if L<=10 then R[48](k,Y,O);return 30,4+Y,k,O,s;else return 20,Y,k+1,O,s;end;elseif L<=12 then local R,G,N=r[5],r[3],r[4];local B,M=R+G,G<=0;R,G=B>=N,B<=N;N=M and R or not M and G;r[5]=B;if N then return 29,Y,B,O,s;else return 36,Y,k,O,s;end;elseif L<=13 then local R=128*(s-128)+y;return 20,Y,2+k,O,R;else local R,L,r=(O-v)*614125,(c-33)*52200625,85*(F-33);local F=1*(s-33)+r+(d+(R+L));K[y]=F;return 10,Y,k,F,s;end;end

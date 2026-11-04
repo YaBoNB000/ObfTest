@@ -1,0 +1,2 @@
+-- field n  (447 chars, kind=function)
+n=function(R,F,Y,d,L,O,k,v,y,K,c,s)if c<=143 then if c<=142 then local r=O-128+((d-128)*16384+128*L);return 117,Y+3,v,K,F,r,s;else local d=R[53](k,Y+2);return not(d>=128)and 38 or 150,Y,v,K,F,O,d;end;elseif c<=144 then local d=v-128;local L=(y-128)*16384+(d+K*128);return 54,3+Y,L,K,F,O,s;elseif c<=145 then local d=R[53](k,2+Y);return 128>d and 78 or 93,Y,v,K,d,O,s;else local d=R[53](k,1+Y);return not not(128<=d)and 29 or 41,Y,v,d,F,O,s;end;end

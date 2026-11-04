@@ -33,6 +33,12 @@ was learned about it.
 | `tools/capture_payload.lua` | intercepts `loadstring`, `buffer.tostring`, and byte writes |
 | `tools/record_buffers.lua` | tags every buffer and dumps its contents so the payload's bytecode can be studied |
 | `tools/run_*.lua` | ready-to-run harnesses for the host |
+| `tools/split_fields.py` | cuts the 180-entry top-level table into `work/decompiled/fields/` using a Luau token stream |
+| `tools/astdump.cpp` | dumps every control-flow node of a chunk with exact source spans, via the real Luau parser |
+| `tools/isa_extract.py` | finds the dispatcher guards/leaves in `[49]` |
+| `tools/vm_isatree.py` | walks a dispatch tree with its value interval — the step that recovers opcode→handler |
+| `tools/gen_isa_md.py` | renders the opcode tables into `work/decompiled/vm_isa.md` |
+| `tools/build_isa.py` | one command that reproduces the whole VM instruction-set recovery |
 
 ## Reading order
 
@@ -47,8 +53,15 @@ was learned about it.
    to reproduce every dump in `work/dumps/`.
 6. `work/notes/06-status-and-next-steps.md` — what is proven, what is missing,
    and the effort left.
+7. `work/notes/07-vm-instruction-set.md` — how the payload VM's 176 real opcodes
+   (`h` 96, `Z` 30, `v` 50) were recovered, and why naive block counting fails.
 
 ## Reproducing
+
+```bash
+# the payload VM's instruction set (needs astdump, see note 07 §6)
+python3 tools/build_isa.py
+```
 
 ```bash
 # rebuild the host (Luau is built separately, see work/notes/05-method.md)

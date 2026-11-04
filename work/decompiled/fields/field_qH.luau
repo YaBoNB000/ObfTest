@@ -1,0 +1,2 @@
+-- field qH  (419 chars, kind=function)
+qH=function(R,F,Y,d,L,O,k,v)if k<=29 then local y=(d+v*F)%256;local K=(d+v*y)%256;local c=(d+v*K)%256;local s,r,G,N=(c*v+d)%256,R.Z,K*256,65536*c;r[F]=s*16777216+N+(G+y);R.CH[F]=s;return 12,Y,L;elseif k<=30 then local d,k,y=O[5],O[1],O[3];local K,c=d+k,k<=0;d,k=K>=y,K<=y;y=c and d or not c and k;O[5]=K;if y then return 15,K,L;else return 27,Y,L;end;else local d=R[53](v,2+F);return not(128<=d)and 40 or 34,Y,d;end;end

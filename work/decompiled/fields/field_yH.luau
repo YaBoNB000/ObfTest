@@ -1,0 +1,2 @@
+-- field yH  (424 chars, kind=function)
+yH=function(R,F,Y,d)local L,O,k,v,y,K,c,s=R[12],R[95],R[15],5,F,d,Y;while true do if v<=3 then if v<=1 then if v<=0 then return;else v,s=4,"?";end;elseif v<=2 then v=L(y,":([0-9][0-9]*)[\13:\10]")and 3 or 6;else d=K[c];if d then v,K,c,s=4,O,"LPH:",d;else v,K,c=1,O,"LPH:";end;end;elseif v<=5 then if v<=4 then K(c..s..": "..y,0);v=0;else v=k(y)=="string"and 2 or 7;end;elseif v<=6 then O(y,0);v=0;else O(y,1);v=0;end;end;end

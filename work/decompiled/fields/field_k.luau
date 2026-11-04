@@ -1,0 +1,2 @@
+-- field k  (401 chars, kind=function)
+k=function(R,F,Y,d,L,O,k,v,y,K,c)if K<=87 then if K<=86 then local s,r,G=Y[1],Y[4],Y[3];local N,B=s+r,r<=0;s,r=N>=G,N<=G;G=B and s or not B and r;Y[1]=N;if G then return 0,O,y,N,c;else return 138,O,y,v,c;end;else return 19,O,(y-128)*128+c,2+v,c;end;elseif K<=88 then return 157,1+O,y,v,c;elseif K<=89 then L[F]=k;return 11,O,y,v,c;else local F=R[53](d,2);return not(128>F)and 10 or 127,O,y,v,F;end;end

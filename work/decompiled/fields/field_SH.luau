@@ -1,0 +1,2 @@
+-- field SH  (428 chars, kind=function)
+SH=function(R,F,Y,d,L,O,k,v,y)if v<=22 then if v<=21 then local K=R[53](L,2+O);return not(128>K)and 19 or 5,L,O,Y,K;else local K=F+128*(k-128);return 23,L,O+2,Y,K;end;elseif v<=23 then local F=R[64](k);R[18](F,0,L,O,k);local K=O+k;y[Y]=F;R[34]=K;return 4,R:FH(y,d,117)(nil,R.U),O,Y,k;elseif v<=24 then local F=R[53](L,O);return not(F<128)and 28 or 11,L,O,F,k;else local F=R[53](L,O);return not(F>=128)and 16 or 3,L,O,4,F;end;end

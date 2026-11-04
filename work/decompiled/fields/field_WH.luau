@@ -1,0 +1,2 @@
+-- field WH  (386 chars, kind=function)
+WH=function(R,F,Y,d,L,O,k,v,y,K,c)if K<=34 then local s=R[53](v,3+Y);local r,G,N,B=2097152*(L-128),(d-128)*128,16384*(y-128),s%128;local d=(s-s%128)*2097152+(G+B+r)+N;return 23,c,v,k,4+Y,F,d;elseif K<=35 then local d=(F-128)*128+O;return 24,c,v,k,2+Y,d,L;else local Y,d=c[2],R[39](R[73](R.XH,5),R.DH,R.kH);local O,k,v=R[91](d),#d-1,5+0;d=0-v;return 30,{v,Y,k+0,nil,d},0,{},O,F,L;end;end

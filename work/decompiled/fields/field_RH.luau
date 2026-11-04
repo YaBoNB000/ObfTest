@@ -1,0 +1,2 @@
+-- field RH  (372 chars, kind=function)
+RH=function(R,F,Y,d,L,O,k,v,y,K,c,s)if s<=5 then if s<=4 then return 11,c,v,d,1+F,L;else return 7,c,v,R[90](Y),F,L;end;elseif s<=6 then local Y=K+(L-128)*128;return 24,c,v,d+2,F,Y;elseif s<=7 then c[v]=d;local Y,s,r=R:VH(c,k);local G=R[53](k,r);return 128>G and 16 or 34,Y,s,r,F,G;else local Y=(y+K*v)%256;R[60](k,L,(R[43](Y,d,(R[53](O,L+F)))));return 26,c,Y,d,F,L;end;end

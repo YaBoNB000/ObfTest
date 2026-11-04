@@ -1,0 +1,2 @@
+-- field W  (376 chars, kind=function)
+W=function(R,F,Y,d,L,O,k,v,y,K,c)if O<=61 then if O<=60 then local s=R[53](v,1+L);return s<128 and 124 or 13,k,L,Y,y,s,F;else local s=(y-128)*128+K;return 89,k,L+2,Y,s,d,F;end;elseif O<=62 then return 91,k[2],L,Y,y,d,F;elseif O<=63 then local O=R[53](v,1+L);return 128>O and 67 or 57,k,L,Y,y,d,O;else local Y=R[53](v,c+1);return not not(128<=Y)and 80 or 42,k,L,Y,y,d,F;end;end

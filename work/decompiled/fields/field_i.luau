@@ -1,0 +1,2 @@
+-- field i  (455 chars, kind=function)
+i=function(R,F,Y,d,L,O,k,v,y,K,c,s,r)if Y<=153 then if Y<=152 then O[0]=v;R[55](O,K);return 2,154,F,R[d](R,nil,O),k,O,s,L;else r[c]=y;return 2,158,F,v,s,O,k,L;end;elseif Y<=154 then return 1;elseif Y<=155 then local Y,d,y=F[3],F[2],F[5];local K,c=Y+d,d<=0;Y,d=K>=y,K<=y;y=c and Y or not c and d;F[3]=K;if y then return 2,66,F,v,s,O,k,K;else return 2,72,F,v,s,O,k,L;end;else local Y,d,O=R[98](v),R[98](v),1+0;return 2,86,{1-O,F,v+0,O,nil},Y,s,d,k,L;end;end
